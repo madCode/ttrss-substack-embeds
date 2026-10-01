@@ -1,4 +1,8 @@
 <?php
+/*
+ * af_substack_embeds, a tt-rss plugin. Licensed under the GNU GPL v3 or later; see LICENSE.
+ */
+
 /**
  * Substack posts can embed a Substack Note, the way a blog embeds a post from a social network.
  * In the feed the embed is an empty element whose `data-attrs` JSON holds the Note; Substack's

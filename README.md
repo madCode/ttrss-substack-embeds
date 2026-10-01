@@ -42,3 +42,7 @@ post and on edge cases: a Note inside a paragraph, several in one paragraph, oth
 
 `drafts/ISSUE-footnotes.md` is a draft issue for tt-rss about footnotes, which tt-rss breaks in a
 related way. It isn't posted yet.
+
+## License
+
+GPL v3 or later, like tt-rss. See [LICENSE](LICENSE).
